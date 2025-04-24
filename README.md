@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#KSHETRA 01">SHALAA SIDDHI 2024-25</a></li>
+                <li><a href="#KSHETRA 01">SHALAA SIDDHI 2024-25 KHESTRA KRAMANK 01</a></li>
            </ul>
         </nav>
     </header>
