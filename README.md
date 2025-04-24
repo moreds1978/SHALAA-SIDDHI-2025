@@ -12,12 +12,12 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#pyq">SHALAA SIDDHI 2024-25</a></li>
+                <li><a href="#KSHETRA 01">SHALAA SIDDHI 2024-25</a></li>
            </ul>
         </nav>
     </header>
     <main>
-        <section id="pyq">
+        <section id="KSHETRA 01">
             <h2>KHESTRA KRAMANK 01</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1qYrJZ15SHQnoiQD9Ql8zF9pilTwbbz-5/view?usp=sharing">GABHA MANAK 01</a></li>
