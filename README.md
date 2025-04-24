@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#pyq">Previous Question Paper</a></li>
+                <li><a href="#pyq">SHALAA SIDDHI 2024-25</a></li>
            </ul>
         </nav>
     </header>
