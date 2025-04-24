@@ -20,7 +20,7 @@
         <section id="pyq">
             <h2>KHESTRA KRAMANK 01</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Question Bank</a></li>
+                <li><a href="https://drive.google.com/file/d/1qYrJZ15SHQnoiQD9Ql8zF9pilTwbbz-5/view?usp=sharing">GABHA MANAK 01</a></li>
            </ul>
         </section>
            </ul>
