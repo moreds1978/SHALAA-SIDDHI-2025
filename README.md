@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>Physics XII Study Material</h1>
+    <h1>DATTAJIRAO KADAM ART'S,SCINCE AND COMMERCE COLLEGE, ICHALKARANJI</h1>
     <link rel="stylesheet" href="styles.css">
 </head>
 
