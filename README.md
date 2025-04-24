@@ -67,6 +67,35 @@
                 <li><a href="https://drive.google.com/file/d/1khGhN8rEKvvWQdm5vcvnbJQ2U7aojuMn/view?usp=sharing">GABHA MANAK 06</a></li>
            </ul>
         </section>
+        <section id="KSHETRA 05">
+            <h2>KHESTRA KRAMANK 05</h2>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/14JN04w-7guqLRuA2WqMX8uYRvONkZ4Yp/view?usp=sharing">GABHA MANAK 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1P_om4dq1-AaTjafqzfd7HPpUQ6sgW7Og/view?usp=sharing">GABHA MANAK 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1otVhVv4X1-8gx8tFL1JGgqU80dU6fkCE/view?usp=sharing">GABHA MANAK 03</a></li>
+                <li><a href="https://drive.google.com/file/d/11iQZHrNkol2ORzA5iAHW6EXUDGrUWGQm/view?usp=sharing">GABHA MANAK 04</a></li>
+            </ul>
+        </section>
+        <section id="KSHETRA 06">
+            <h2>KHESTRA KRAMANK 06</h2>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1RRgqOR3sX4NBkBx_eIt98juyzQDfEpJa/view?usp=sharing">GABHA MANAK 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1MEXfMzelN-xWnL0UjS1GluUpk0-jBG-k/view?usp=sharing">GABHA MANAK 02</a></li>
+                <li><a href="https://drive.google.com/file/d/13zI6wK0uymmz2EdTJM659mjqEuxPGc01/view?usp=sharing">GABHA MANAK 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1as4_PYLNQc2Q5HPK12ZDtcP-VuUEGdFj/view?usp=sharing">GABHA MANAK 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1wXCfx-3uB7gvaGfdjKUvPgeEPjv5rxag/view?usp=sharing">GABHA MANAK 05</a></li>
+            </ul>
+        </section>
+        <section id="KSHETRA 07">
+            <h2>KHESTRA KRAMANK 07</h2>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/15IKdNkqQUAnmoz8k4fwLhi8e4BCaliCb/view?usp=sharing">GABHA MANAK 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1-hVkxY0EdkJVJhbOXoDBucKYaI5JXQTa/view?usp=sharing">GABHA MANAK 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1aOUq9jZUTD9lSE4SVEQYQ3_8d1y9HizP/view?usp=sharing">GABHA MANAK 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1_be9lkFSxy8bl1rzoHKCq-zI6mRHFPj_/view?usp=sharing">GABHA MANAK 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1tJhIg69MjH57gzB4B9EJbTaqGqQoDoPD/view?usp=sharing">GABHA MANAK 05</a></li>
+            </ul>
+        </section>
            </ul>
         </section>
         </main>
