@@ -18,7 +18,7 @@
     </header>
     <main>
         <section id="pyq">
-            <h2>Previous Question Paper</h2>
+            <h2>KHESTRA KRAMANK 01</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Question Bank</a></li>
            </ul>
