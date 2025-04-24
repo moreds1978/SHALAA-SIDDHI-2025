@@ -16,6 +16,10 @@
                 <li><a href="#KSHETRA 01">KHESTRA KRAMANK 01</a></li>
                 <li><a href="#KSHETRA 02">KHESTRA KRAMANK 02</a></li>
                 <li><a href="#KSHETRA 03">KHESTRA KRAMANK 03</a></li>
+                <li><a href="#KSHETRA 04">KHESTRA KRAMANK 04</a></li>
+                <li><a href="#KSHETRA 05">KHESTRA KRAMANK 05</a></li>
+                <li><a href="#KSHETRA 06">KHESTRA KRAMANK 06</a></li>
+                <li><a href="#KSHETRA 07">KHESTRA KRAMANK 07</a></li>
            </ul>
         </nav>
     </header>
@@ -50,6 +54,17 @@
                 <li><a href="https://drive.google.com/file/d/1ZpheCCuErMoZ64_T-ERTSw58UC2qKepG/view?usp=sharing">GABHA MANAK 03</a></li>
                 <li><a href="https://drive.google.com/file/d/1ykJTZgjq5jx2YhDws1Ja_tRny_I5HiB_/view?usp=sharing">GABHA MANAK 04</a></li>
                 <li><a href="https://drive.google.com/file/d/1DAAzfUeANTKMENHrg9N4H4VurVlf6q1f/view?usp=sharing">GABHA MANAK 05</a></li>
+           </ul>
+        </section>
+        <section id="KSHETRA 04">
+            <h2>KHESTRA KRAMANK 04</h2>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1i4QOJcOrPvXt5SmYOinvRAdw1wA0Me3F/view?usp=sharing">GABHA MANAK 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1UZb41vAZZNhL_FjHuSZi_AWTaU14LQxC/view?usp=sharing">GABHA MANAK 02</a></li>
+                <li><a href="https://drive.google.com/file/d/15ZrddPEJHhuLSbvIIoS3Ama1ZZSsLz8U/view?usp=sharing">GABHA MANAK 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1kK-Ype4c4651KIAlQYuWeG5JgdAy2DlY/view?usp=sharing">GABHA MANAK 04</a></li>
+                <li><a href="">GABHA MANAK 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1khGhN8rEKvvWQdm5vcvnbJQ2U7aojuMn/view?usp=sharing">GABHA MANAK 06</a></li>
            </ul>
         </section>
            </ul>
