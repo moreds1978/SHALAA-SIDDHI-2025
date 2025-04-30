@@ -63,7 +63,7 @@
                 <li><a href="https://drive.google.com/file/d/1UZb41vAZZNhL_FjHuSZi_AWTaU14LQxC/view?usp=sharing">GABHA MANAK 02</a></li>
                 <li><a href="https://drive.google.com/file/d/15ZrddPEJHhuLSbvIIoS3Ama1ZZSsLz8U/view?usp=sharing">GABHA MANAK 03</a></li>
                 <li><a href="https://drive.google.com/file/d/1kK-Ype4c4651KIAlQYuWeG5JgdAy2DlY/view?usp=sharing">GABHA MANAK 04</a></li>
-                <li><a href="">GABHA MANAK 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1ECgZ_4LlGliZa6N9aypb9fhuiWDpmdR5/view?usp=sharing">GABHA MANAK 05</a></li>
                 <li><a href="https://drive.google.com/file/d/1khGhN8rEKvvWQdm5vcvnbJQ2U7aojuMn/view?usp=sharing">GABHA MANAK 06</a></li>
            </ul>
         </section>
